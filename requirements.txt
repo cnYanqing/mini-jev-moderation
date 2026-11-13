@@ -1,0 +1,8 @@
+torch==2.9.1
+transformers==5.20.0
+peft==0.21.0
+numpy==2.5.4
+Pillow==13.0.0
+huggingface_hub
+accelerate
+safetensors
