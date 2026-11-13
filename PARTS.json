@@ -1,0 +1,61 @@
+{
+  "archive_name": "mini-jev-moderation-image-v6.zip",
+  "archive_sha256": "22aaa3b0da1c63e7cfda26d9f04113eeced2b3a6df6228befac127a3c836e935",
+  "parts": [
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-00",
+      "size": 25000000,
+      "sha256": "de8abe6e98307a8f321d70247d9cc66e1266614f088deb546740e18b594e8f82"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-01",
+      "size": 25000000,
+      "sha256": "78d7487f314e604e1437be22831bdbcf7617595edac70c9e0328b2458a532b78"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-02",
+      "size": 25000000,
+      "sha256": "bb5d28f212a7a86a54b5d92cc10c08a3aa966cb478460a9c7c856672cd604d7c"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-03",
+      "size": 25000000,
+      "sha256": "db6b3e58b482cb0914db9d787128fe4d4d72961d7d0ecb9d48629b103bb94a67"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-04",
+      "size": 25000000,
+      "sha256": "a07081eb226d62c1d22dea4bbcf5f41365c4900414b650b0a56d5214e84b9118"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-05",
+      "size": 25000000,
+      "sha256": "9fd63f243eede33661997c08ba493a4422a8549e703d2ca275d668e44bc83a87"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-06",
+      "size": 25000000,
+      "sha256": "6055fb4ff550fe75149c033e2ae03a1e98c5060022e33ba74d9c22618aea9476"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-07",
+      "size": 25000000,
+      "sha256": "e9b223bedf89aa556a901dbc554b18111f94431c186d097ecc4e746bd833f04b"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-08",
+      "size": 25000000,
+      "sha256": "254028857637755a1e9f21444dbf94f9b80d53921cdb7d941c106e53ba0132c9"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-09",
+      "size": 25000000,
+      "sha256": "6fd6eb905ba31222c040f5cc6ae3020774e52df24ab932d1ebf94de4d15ce01c"
+    },
+    {
+      "name": "mini-jev-moderation-image-v6.zip.part-10",
+      "size": 20241608,
+      "sha256": "8bcb6d6f42068b2bf92f82e320196896106fd9eb3ca2375506599975dedd47fc"
+    }
+  ]
+}

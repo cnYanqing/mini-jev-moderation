@@ -23,7 +23,14 @@
 
 ## 使用
 
-从 Hugging Face 下载并解压模型包，在包目录执行：
+模型包在 Hugging Face 上分为 11 个文件。下载本仓库的 `reassemble.py`、`PARTS.json`，然后自动下载和校验分卷：
+
+```bash
+pip install huggingface_hub
+python reassemble.py --download
+```
+
+解压生成的 `mini-jev-moderation-image-v6.zip`，在包目录执行：
 
 ```bash
 pip install -r requirements.txt
