@@ -46,3 +46,7 @@ python predict.py /path/to/image.jpg --device cuda
 - 对照实验：[Falconsai 线性头实验版](https://huggingface.co/lettery/vision-moderation-heads-experimental-v1)仅作比较，不是当前保留模型。
 
 代码和本项目发布权重采用 Apache-2.0；上游许可与归属见 [ATTRIBUTION.md](ATTRIBUTION.md)。
+
+## 2026-11-15 更新
+
+新增文字与视频训练结果：[查看报告](docs/RESULTS-20261115.md)。文字色情在24条外部AI初审提示上87.5%→91.7%；文字血腥无改善，视频画面血腥本轮31/37=83.8%，权重仍回退原版。这些不是人工确认的真实平台正确率。模型文件在[Hugging Face](https://huggingface.co/lettery/mini-jev-moderation-image-v6)。本次只更新说明文档。
